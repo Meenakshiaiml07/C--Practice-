@@ -6,5 +6,5 @@ I am a BTech 1st year student learning C from scratch.
 - Day 1: hello.c - My first Hello World program
 - Day 2: add.c - Adding two numbers
 - Day 3: double.c - Check if a number is double / even
-
+- Day 4: arithmetic.c - All arithmetic operations (+ - * /)
 I am learning daily and pushing my code here.
