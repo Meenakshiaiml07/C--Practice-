@@ -9,6 +9,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 4: arithmetic.c - All arithmetic operations (+ - * /)
   
 - Day 5: largest _of_3.c -Find largest among 3 numbers using  if-else
-- Day 6- factorial.c - Find factorial using loop
+- Day 6: factorial.c - Find factorial using loop
 
 I am learning daily and pushing my code here.
