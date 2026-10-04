@@ -11,5 +11,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 5: largest _of_3.c -Find largest among 3 numbers using  if-else
 - Day 6: factorial.c - Find factorial using loop
 - Day 7: fibonacci.c - Fibonacci series
-  
+- Day 8: palindrome.c - Check whether the given number is palindrome or not
+- 
 I am learning daily and pushing my code here.
