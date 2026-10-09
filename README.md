@@ -15,5 +15,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 9: armstrong.c - check whether the given number is armstrong number or not
 - Day 10: pyramid.c - **Pyramid Pattern using Nested Loops** ⭐
 - Day 11: prime.c - Check if a number is prime or not
+- Day 12: studentgrade.c - student grade calculater
 - 
 I am learning daily and pushing my code here.
