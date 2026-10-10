@@ -16,5 +16,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 10: pyramid.c - **Pyramid Pattern using Nested Loops** ⭐
 - Day 11: prime.c - Check if a number is prime or not
 - Day 12: studentgrade.c - student grade calculater
+- Day 13: leapyear.c - check whether the entered year is leap year or not
 - 
 I am learning daily and pushing my code here.
