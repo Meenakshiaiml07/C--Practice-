@@ -18,5 +18,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 12: studentgrade.c - student grade calculater
 - Day 13: leapyear.c - check whether the entered year is leap year or not
 - Day 14: swappingnumbers.c - Swaping two numbers
+- Day 15: 1-n numbers.c - to print numbers fron 1 to n
 - 
 I am learning daily and pushing my code here.
