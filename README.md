@@ -20,5 +20,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 14: swappingnumbers.c - Swaping two numbers
 - Day 15: 1-n numbers.c - to print numbers fron 1 to n
 - Day 16: secondlargest.c - to find the second largest number from the entered numbers
+- Day 17: GCD.c - Finding GCD of entered numbers
 - 
 I am learning daily and pushing my code here.
