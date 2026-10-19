@@ -22,5 +22,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 16: secondlargest.c - to find the second largest number from the entered numbers
 - Day 17: GCD.c - Finding GCD of entered numbers
 - Day 18: LCD.c - Finding LCD of entered numbers
+- Day 19: sort.c - Sorting numbers
 - 
 I am learning daily and pushing my code here.
