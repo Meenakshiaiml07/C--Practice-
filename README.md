@@ -24,5 +24,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 18: LCD.c - Finding LCD of entered numbers
 - Day 19: sort.c - Sorting numbers
 - Day 20: vowels.c - identifying vowels in the entered string 
+- Day 21: string_pointer.c - String reversal using pointer arithmeti
 - 
 I am learning daily and pushing my code here.
