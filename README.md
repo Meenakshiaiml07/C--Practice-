@@ -30,5 +30,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 24: number_analyzer.c - All-Number-Analyzer
 - Day 25: simple_interest.c - calculating simple interest
 - Day 26: compound_interest.c - calculating compound interest
+- Day 27: today.c - date and day of particular time
 - 
 I am learning daily and pushing my code here.
