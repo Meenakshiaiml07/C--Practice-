@@ -34,5 +34,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 28: age_calculater.c - saying age using DOB
 - Day 29: calender.c - out monthly calendar
 - Day 30: Day30_final_project.c- Final All in one project completed
+- Day 31: day31_largest_in_array.c - Started DSA and added a program about largest in arrays
 - 
 I am learning daily and pushing my code here.
