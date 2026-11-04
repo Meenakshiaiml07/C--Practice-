@@ -37,6 +37,7 @@ I am a BTech 1st year student learning C from scratch.
 - Day 31: day31_largest_in_array.c - Started DSA and added a program about largest in arrays
 - Day 32: day32_student_info.c - to give a particular info of particular student at one place
 - Day 33: day33_multiplication_in_array.c - multiplying two matrices and giving their solution
-- Day 34: day33_student_database.c - which gives  the data of the students
+- Day 34: day34_student_database.c - which gives  the data of the students
+- Day 35: day35_linear_search.c - using arrays 
 - 
 I am learning daily and pushing my code here.
