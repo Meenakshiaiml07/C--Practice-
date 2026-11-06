@@ -40,5 +40,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 34: day34_student_database.c - which gives  the data of the students
 - Day 35: day35_linear_search.c - using arrays 
 - Day 36: day36_bubble_sort.c - rearranging the given numbers as per give condition
+- Day 37: day37_searching.c - finding out the number which is used asked
 - 
 I am learning daily and pushing my code here.
