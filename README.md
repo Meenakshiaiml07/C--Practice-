@@ -43,5 +43,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 37: day37_searching.c - finding out the number which is used asked
 - Day 38: day38_atm_system.c - ATM system
 - Day 39: day39_tic_tac_toe.c - tic tac toe game
+- Day 40: day40_password_generator.c - program to generate a password
 - 
 I am learning daily and pushing my code here.
