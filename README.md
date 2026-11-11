@@ -45,5 +45,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 39: day39_tic_tac_toe.c - tic tac toe game
 - Day 40: day40_password_generator.c - program to generate a password
 - Day 41: day41_contact_manager.c - a program about contact manager
+- Day 42: day42_library_pointer.c - Library management system
 - 
 I am learning daily and pushing my code here.
