@@ -47,5 +47,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 41: day41_contact_manager.c - a program about contact manager
 - Day 42: day42_library_pointer.c - Library management system
 - Day 43: day43_expense_tracker.c - Expense tracker
+- Day 44: day44_stack.c - Stack.c
 - 
 I am learning daily and pushing my code here.
