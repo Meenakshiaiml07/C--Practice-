@@ -48,5 +48,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 42: day42_library_pointer.c - Library management system
 - Day 43: day43_expense_tracker.c - Expense tracker
 - Day 44: day44_stack.c - Stack.c
+- Day 45: day45_recursion_factorial.c - finding factorial of a number using recursion method
 - 
 I am learning daily and pushing my code here.
