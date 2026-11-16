@@ -50,5 +50,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 44: day44_stack.c - Stack.c
 - Day 45: day45_recursion_factorial.c - finding factorial of a number using recursion method
 - Day 46: day46_recursion_sum.c - finding sum of numbers using recursion method
+- Day 47: day47_fibonacci_recursion.c - Fibonacci series using recursion method
 - 
 I am learning daily and pushing my code here.
