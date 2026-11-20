@@ -53,6 +53,7 @@ I am a BTech 1st year student learning C from scratch.
 - Day 47: day47_fibonacci_recursion.c - Fibonacci series using recursion method
 - Day 48: day48_queue.c - Queue in c
 - Day 49: day49_linked_list.c - Linked list
-- Day 50: day50_quiz_game.c - Quiz game
+- Day 50: day50_super_market_management_system.c - Super Market Management system
+- Day 51: day51_quiz_game.c - Quiz game
 - 
 I am learning daily and pushing my code here.
