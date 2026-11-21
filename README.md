@@ -55,5 +55,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 49: day49_linked_list.c - Linked list
 - Day 50: day50_super_market_management_system.c - Super Market Management system
 - Day 51: day51_quiz_game.c - Quiz game
+- Day 52: day52_todo_list.c - Todo list
 - 
 I am learning daily and pushing my code here.
