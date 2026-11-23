@@ -57,5 +57,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 51: day51_quiz_game.c - Quiz game
 - Day 52: day52_todo_list.c - Todo list
 - Day 53: day53_dice.c - Dice game
+- Day 54: day54_rock_paper_scissor.c - Rock paper scissor game
 - 
 I am learning daily and pushing my code here.
