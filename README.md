@@ -58,5 +58,7 @@ I am a BTech 1st year student learning C from scratch.
 - Day 52: day52_todo_list.c - Todo list
 - Day 53: day53_dice.c - Dice game
 - Day 54: day54_rock_paper_scissor.c - Rock paper scissor game
+- Day 55: day55_file.c - Files in c
+- Day 56: day56_linear_search.c - Linear search
 - 
 I am learning daily and pushing my code here.
