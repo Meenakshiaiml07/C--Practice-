@@ -60,5 +60,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 54: day54_rock_paper_scissor.c - Rock paper scissor game
 - Day 55: day55_file.c - Files in c
 - Day 56: day56_linear_search.c - Linear search
+- Day 57: day57_binary_search.c - Binary search
 - 
 I am learning daily and pushing my code here.
