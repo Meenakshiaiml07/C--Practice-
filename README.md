@@ -61,5 +61,6 @@ I am a BTech 1st year student learning C from scratch.
 - Day 55: day55_file.c - Files in c
 - Day 56: day56_linear_search.c - Linear search
 - Day 57: day57_binary_search.c - Binary search
+- Day 58: day58_selection_sort.c - Selection sorting
 - 
 I am learning daily and pushing my code here.
